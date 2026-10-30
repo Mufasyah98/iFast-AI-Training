@@ -4,6 +4,10 @@
 
 ### Practical AI training · Claude & Microsoft Copilot
 
+<img src="https://cdn.simpleicons.org/anthropic/CA8A04" alt="Anthropic" height="42"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" alt="Microsoft" height="42"/>
+
+*Brand icons are used for product identification only.*
+
 <img src="https://img.shields.io/badge/Training-AI%20Workplace%20Productivity-14213D?style=for-the-badge" alt="AI Workplace Productivity"/> <img src="https://img.shields.io/badge/Mode-Claude%20Only-7C3AED?style=for-the-badge" alt="Claude-only hands-on training"/> <img src="https://img.shields.io/badge/Data-Synthetic%20Only-17803D?style=for-the-badge" alt="Synthetic data only"/>
 
 **Training resources prepared by [Mufasyah Consultant](https://mufasyah.com)**
@@ -31,6 +35,10 @@ Participants will learn to **write effective prompts**, summarize and analyze bu
 ## 🧩 AI productivity infographic
 
 **AI-assisted workplace productivity cycle — trainer-created learning infographic**
+
+![AI Workplace Productivity: define, prompt, analyze, verify, deliver](assets/ai-workplace-productivity.svg)
+
+The SVG above is an original, reusable training infographic. The interactive flow diagram below is the text-accessible companion.
 
 ```mermaid
 flowchart LR
